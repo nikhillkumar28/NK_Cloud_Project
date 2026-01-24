@@ -1,3 +1,6 @@
 Iaas
 Paas
 Saas
+Iaas example :AWS,GCP
+Paas example :WebAPP,Google Colab
+Saas example :Gdrive,gmail
